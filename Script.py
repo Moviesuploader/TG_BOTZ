@@ -76,7 +76,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 my features Stay here new features coming soon...  
  <b>✯ Maintained by : <a href=https://t.me/RT_Anime_Group>OWNER</a></b>
   
- <b>✯ Join here : <a href=https://t.me/beautyofthemovie>Join my updateds</a></b> 
+ <b>✯ Join here : <a href=https://t.me/RT_Anime_Group>Join my updateds</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
