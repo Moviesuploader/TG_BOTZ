@@ -222,7 +222,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 <b>══════════════════
 🗂 {file_name}
 ═════════════════════ 
-𝐉𝐎𝐈𝐍 𝐇𝐄𝐑𝐄 :- @beautyofthemovie</b>"""
+𝐉𝐎𝐈𝐍 𝐇𝐄𝐑𝐄 :- @RT_Anime_Group</b>"""
     
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
