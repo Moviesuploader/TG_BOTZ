@@ -82,7 +82,7 @@ async def get_poster(query, bulk=False, id=False, file=None):
                 year = list_to_str(year[:1]) 
         else:
             year = None
-        movieid = imdb.search_movie(title.lower(), results=10)
+        movieid = imdb.search_movie(title.lower(), results=2)
         if not movieid:
             return None
         if year:
