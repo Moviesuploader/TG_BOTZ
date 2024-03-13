@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://graph.org/file/8e0fca27184354f479593.jpg" alt="TG_BOTZ Logo">
+  <img src="https://telegra.ph/file/947bf55ed7b3cfc0e145c.jpg" alt="BEAUTYOFTHEMOVIESX Logo">
 </p>
 <h1 align="center">
-  TG_UPDATES1
+  BEAUTYOFTHEMOVIESX 
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+𝗧𝗚_𝗕𝗢𝗧𝗭!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗞𝗨𝗦𝗛𝗔𝗟+𝗛𝗞™;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+𝗧𝗚_𝗕𝗢𝗧𝗭!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+BEAUTYOFTHEMOVIESX;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
 
 <h1 align="center">
@@ -14,7 +14,7 @@
 
 👉 𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 𝙤𝙣 𝙩𝙚𝙡𝙚𝙜𝙧𝙖𝙢
 <p align="middle">        
-<a href="https://telegram.dog/KUSHALHK"><img src="https://img.shields.io/badge/Tᴇʟᴇɢʀᴀᴍ-purple.svg?logo=telegram"></a>
+<a href="https://telegram.dog/Beautyofsupportbot"><img src="https://img.shields.io/badge/Tᴇʟᴇɢʀᴀᴍ-purple.svg?logo=telegram"></a>
 
 [![Stars](https://img.shields.io/github/stars/Kushalhk/TG_BOTZ?style=flat-square&color=blue)](https://github.com/Kushalhk/TG_BOTZ)
 [![Forks](https://img.shields.io/github/forks/Kushalhk/TG_BOTZ?style=flat-square&color=red)](https://github.com/Kushalhk/TG_BOTZ/fork)
@@ -86,11 +86,11 @@ we are nothing without your support please support us to bring more features in 
 - [x] 𝐴𝑢𝑡𝑜 𝐷𝑒𝑙𝑒𝑡𝑒
 - [x] 𝐴𝑛𝑑 𝑀𝑜𝑟𝑒...
 
-<b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://t.me/TG_BOTS_UPDATE'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
+<b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='[https://t.me/beautyofthemoviesx]()'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
 
-* [![𝐑𝐄𝐏𝐎 𝐎𝐖𝐍𝐄𝐑](https://img.shields.io/static/v1?label=𝐂𝐎𝐍𝐓𝐀𝐂𝐓&message=𝐌𝐄&color=critical)](https://t.me/KUSHALHK)
+* [![𝐑𝐄𝐏𝐎 𝐎𝐖𝐍𝐄𝐑](https://img.shields.io/static/v1?label=𝐂𝐎𝐍𝐓𝐀𝐂𝐓&message=𝐌𝐄&color=critical)](https://t.me/Beautyofsupportbot)
 
-* * [![𝐃𝐄𝐌𝐎 𝐁𝐎𝐓](https://img.shields.io/static/v1?label=𝐃𝐄𝐌𝐎&message=𝐁𝐎𝐓&color=critical)](https://t.me/TG_autofilter_bot)
+* * [![𝐃𝐄𝐌𝐎 𝐁𝐎𝐓](https://img.shields.io/static/v1?label=𝐃𝐄𝐌𝐎&message=𝐁𝐎𝐓&color=critical)](https://t.me/Millie_bobbby_bot)
   
 ## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
 ```
